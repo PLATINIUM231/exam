@@ -15,7 +15,7 @@ def divide(num_1, num_2):
     if num_2 == 0:
         return "Error: Division by zero BLEHHHHHHHH, Learned my mistake:"
     return num_1 / num_2
-
+#lets sart again
 while True:
     print("Please select which of the following arithmetic operations you want me to perform:\n"
           "1. Add\n"
@@ -57,7 +57,7 @@ while True:
             num_2 = float(input('Please, Enter the second number:\n'))
             print('\nSubtraction of {} - {} = {}\n'.format(num_1, num_2, subtract(num_1, num_2)))
         except ValueError:
-            print("\nPlease enter valid numbers\n")
+            print("\nPlease enter valid numbers kekeke\n ")
     elif operation == 3:
         try:
             num_1 = float(input('Please, Enter the first number:\n'))
