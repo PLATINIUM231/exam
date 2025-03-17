@@ -1,4 +1,5 @@
-print("Hi, Accepting commisions including Chess Tutoring, Video Editing, Picture Editing and more-JHED I NEED MONEY\\n")
+#Jhed Ritch D. Aguinaldo
+print("Hi, Accepting commisions including Chess Tutoring, Video Editing, Picture Editing and more- I NEED MONEY\\n")
 
 #Addition
 def add(num_1, num_2):
@@ -12,7 +13,7 @@ def multiply(num_1, num_2):
 #Divition
 def divide(num_1, num_2):
     if num_2 == 0:
-        return "Error: Division by zero"
+        return "Error: Division by zero BLEHHHHHHHH, Learned my mistake:"
     return num_1 / num_2
 
 while True:
