@@ -15,7 +15,7 @@ def divide(num_1, num_2):
     if num_2 == 0:
         return "Error: Division by zero BLEHHHHHHHH, Learned my mistake:"
     return num_1 / num_2
-#lets sart again
+#lets sart again fixing the error on M.P -Jhed
 while True:
     print("Please select which of the following arithmetic operations you want me to perform:\n"
           "1. Add\n"
