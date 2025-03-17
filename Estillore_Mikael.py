@@ -18,4 +18,6 @@ while True:
              print("Invalid input!")
     except ValueError:
         print("Invalid input!")
-        Hi mik, im in your code
+        #Hi mik, im in your code
+###want me to help? ⢻⣿⡗⢶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣄"
+
